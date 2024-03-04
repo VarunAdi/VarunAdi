@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VarunAdi
-- 👀 I’m interested in Competitive programming and ethical hacking
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on "Nothing atm"
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Frameworks in Web Development
+- 💞️ I’m looking to collaborate on building functional websites
 - 📫 How to reach me - you can mail me at mettuvarunadityareddy@gmail.com
 
 <!---
