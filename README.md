@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Frameworks in Web Development
 - 💞️ I’m looking to collaborate on building functional websites
+- ⚡I love reading Fiction
 - 📫 How to reach me - you can mail me at mettuvarunadityareddy@gmail.com
 
 <!---
