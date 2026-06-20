@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Aditya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate AI developer, I develop and maintain Computer Vision programs for Samsung India</h3>
 
 <img alt="coding" width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunadi" alt="varunadi" /></a> </p>
 
-- 🔭 I'm currently working on **creating functional software**
+- 🔭 I'm currently working on **creating AI to improve Computer vision**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **C# and CPP development**
 
-- 👯 I’m looking to collaborate on **collaborate on interesting projects that bring a change**
+- 👯 I’m looking to collaborate on **AI and computer vision development and integration with hardware in real time**
 
-- 🤝 I’m looking for help with **Machine Learning and Artificial Intelligence**
-
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **mettuvarunadityareddy@gmail.com**
 
